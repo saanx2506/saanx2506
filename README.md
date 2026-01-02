@@ -4,6 +4,57 @@ My interset lies in studying cyberattack techniques and exploring defense strate
 
 
  ---
+
+# My Cybersecurity Projects
+
+
+## 1. **OSAMD (Open Source Advanced Monitoring & Detection)**
+- **Description:** SOC automation and endpoint monitoring system. Collects logs from endpoints, detects malicious samples (**Lumma Stealer**), and sends automated email alerts.  
+- **Technologies/Tools:**  
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005571?style=for-the-badge) 
+![NXLog](https://img.shields.io/badge/NXLog-FF6600?style=for-the-badge) 
+![Fluentbit](https://img.shields.io/badge/Fluentbit-0077C8?style=for-the-badge) 
+![OpenSearch Dashboard](https://img.shields.io/badge/OpenSearch_Dashboard-005571?style=for-the-badge) 
+![pfSense](https://img.shields.io/badge/pfSense-3399FF?style=for-the-badge) 
+![MISP](https://img.shields.io/badge/MISP-FF4500?style=for-the-badge) 
+![Syslog](https://img.shields.io/badge/Syslog-8B0000?style=for-the-badge)  
+- **Repository:** [OSAMD](https://github.com/saanx2506/OSAMD-Project)
+
+---
+
+## 2. **Security Orchesration and Automation with Shuffle**
+- **Description:** Automation workflow using **Wazuh**, **Shuffle**, **VirusTotal**, and **TheHive**.  
+  - Wazuh generates alerts when a sample of **Asyncrat** executes.  
+  - Alerts are sent to Shuffle for IOC extraction.  
+  - IOC enrichment via VirusTotal.  
+  - Final alert is created in TheHive.  
+- **Techologies/Tools:**  
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge) 
+![Shuffle](https://img.shields.io/badge/Shuffle-FF6347?style=for-the-badge) 
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal) 
+![TheHive](https://img.shields.io/badge/TheHive-1E90FF?style=for-the-badge)  
+- **Repository:** [SOC Automation](https://github.com/saanx2506/SOC-Automation-with-Shuffle)
+
+---
+
+## 3. **MISP → OpenSearch Integration**
+- **Description:** Python script that integrates **MISP** threat intelligence feeds with **OpenSearch**, allowing automated ingestion of IOCs and threat data for SOC operations.  
+- **Technologies/Tools:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python) 
+![MISP](https://img.shields.io/badge/MISP-FF4500?style=for-the-badge) 
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005571?style=for-the-badge)  
+- **Repository:** [MISP → OpenSearch](https://github.com/saanx2506/MISP_to_OpenSearch-)
+
+---
+
+## 4. **Port Scanner**
+- **Description:** Python-based port scanner that enumerates open ports for given IP addresses.  
+- **Technologies/Tools:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge) 
+![Networking](https://img.shields.io/badge/Networking-006400?style=for-the-badge)  
+- **Repository:** [Port Scanner](https://github.com/saanx2506/Portscanner)
+
+---
 # Skills
 ![SOC Fundamentals](https://img.shields.io/badge/SOC_Fundamentals-003366?style=for-the-badge)
 ![Alert Triage](https://img.shields.io/badge/Alert_Triage-2F4F4F?style=for-the-badge)
