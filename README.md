@@ -1,6 +1,6 @@
 ## Hi, I am Tank Prasad Pandeya
 I am a Cybersecurity Graduate currently focused on **Security Operations Center (SOC)** activities and **Defensive Security**.  
-My interset lies in studying cyberattack techniques and exploring defense strategies to enhance digital security. 
+My interest lies in studying cyberattack techniques and exploring defense strategies to enhance digital security. 
 
 
  ---
